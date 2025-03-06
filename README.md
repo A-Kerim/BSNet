@@ -4,5 +4,5 @@ The code for our paper "Entropy-Based Adaptive Fully Convolutional Building Segm
 
 For any inquiries, feel free to reach out.
 
-Abdulrahman Kerim (a.kerim@surrey.ac.uk)
+Abdulrahman Kerim (a.kerim@surrey.ac.uk), 
 Xiaowei Gu (xiaowei.gu@surrey.ac.uk)
